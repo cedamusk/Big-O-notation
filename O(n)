@@ -1,9 +1,0 @@
-def get_squared_numbers(numbers):
-			squared_numbers =[]
-			for n in numbers:
-						square_numbers.append(n+n)
-			return squared_numbera
-			
-numbers=[2,5,8,9]
-get_square_numbers(numbers)
-#returns [4,25,64,81]
