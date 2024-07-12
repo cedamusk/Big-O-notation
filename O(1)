@@ -1,6 +1,0 @@
-def get_favourite_colour():
-		favourite colour="Blue"
-		return favourite_colour
-
-favourite_colour=get_favourite colour()
-print(favourite_colour)
